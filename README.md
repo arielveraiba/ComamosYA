@@ -104,9 +104,7 @@ Pueda ser utilizado por cualquier persona sin ayuda externa o instrucciones del 
 
 🔗 5. Enlaces Operativos
 
-Landing Page Local (MVP Fase 1): (Copia y pega esta ruta en la barra de direcciones de tu navegador para ver la página)
-👉 file:///C:/Users/ariel/OneDrive/Escritorio/ComamosYA/landing_page_swipedine%20(1).html
+Landing Page Local (MVP Fase 1): file:///C:/Users/ariel/OneDrive/Escritorio/ComamosYA/landing_page_swipedine%20(1).html
 
-Prototipo Figma / UI: (Pendiente de agregar)
+Prototipo Figma / UI: https://comamosya-343680431781.us-east1.run.app
 
-Repositorio de Código (Frontend/Backend): (Pendiente de agregar)
